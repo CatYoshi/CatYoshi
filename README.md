@@ -26,4 +26,4 @@ I'm MarcosYoshi, a young programmer.
 ### Social media
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/MarcosYoshi_)
-[![Twitter URL](https://img.shields.io/twitter/url?color=yellow&label=follow&logo=discord&logoColor=yellow&style=flat-square&url=https%3A%2F%2Fdiscord.com%3A%2F%2)](https://discord.com/users/527057273219186698)
+[![Discord](https://img.shields.io/twitter/url?color=yellow&label=follow&logo=discord&logoColor=yellow&style=flat-square&url=https%3A%2F%2Fdiscord.com%3A%2F%2)](https://discord.com/users/527057273219186698)
