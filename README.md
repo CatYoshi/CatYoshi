@@ -1,14 +1,15 @@
 ### - ❄️ About me 
-👋 Hello! I am MarcosYoshi, a **Backend / Frontend** developer 
+👋 Hello! I'm Yoshi, a **Backend / Frontend** developer 
 
 Backend Developer | Frontend Developer
 
 - 🌎 Spain.
 - 💎 TolvaBot developer.
+- 💝 She/Her
 
 <br />
 
-![MarcosYoshi Github Stats](https://github-readme-stats.vercel.app/api?username=MarcosYoshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Yoshi Github Stats](https://github-readme-stats.vercel.app/api?username=Yoshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
