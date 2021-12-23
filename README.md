@@ -1,8 +1,6 @@
 ### - ❄️ About me 
 👋 Hello! I'm Yoshi, a **Backend / Frontend** developer 
 
-Backend Developer | Frontend Developer
-
 - 🌎 Spain.
 - 💎 TolvaBot developer.
 - 💝 She/Her
