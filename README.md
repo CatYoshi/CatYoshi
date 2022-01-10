@@ -1,5 +1,5 @@
 ### - ❄️ About me 
-👋 Hello! I'm Yoshi, a **Backend / Frontend** developer 
+👋 Hello! I'm Yoshi, another developer.
 
 - 🌎 Spain.
 - 💎 TolvaBot developer.
